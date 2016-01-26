@@ -7,3 +7,7 @@ Here are two more lines:
 Line #1
 
 Line #2
+
+And a third line:
+
+Line #3
